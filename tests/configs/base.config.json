@@ -1,0 +1,27 @@
+{
+  "includeExtensions": [
+    ".md",
+    ".txt",
+    ".py",
+    ".js",
+    ".tsx",
+    ".html",
+    ".css",
+    ".c",
+    ".cpp",
+    ".java",
+    ".pl",
+    ".r",
+    ".lua",
+    ".hs",
+    ".erl",
+    ".scm",
+    ".tex",
+    ".sh",
+    ".yml",
+    ".yaml"
+  ],
+  "ignoreDirectories": [],
+  "ignoreFiles": [],
+  "minWordLength": 3
+}
